@@ -926,3 +926,6 @@ Harvesting Ledian
 Cooking Chespin
 Nibbling Bunnelby
 Pear Flapple
+combat breed tauros
+aqua breed tauros
+blaze breed tauros
